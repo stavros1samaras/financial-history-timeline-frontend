@@ -5,7 +5,7 @@ export default function FundamentalNavigation() {
 		<nav className="block">
 			<ul className="flex flex-row justify-between">
 				<li>
-					<Link to="fundamental/single-analysis">SingleAnalysis</Link>
+					<Link to="fundamental/single-analysis">SingleAnalysiss</Link>
 				</li>
 				<li>
 					<Link to="fundamental/auto-analysis">AutoAnalysis</Link>
